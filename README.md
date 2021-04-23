@@ -39,7 +39,7 @@ Dividas/Patrimônio
 **numero_de_vezes_que_passou_60_89_dias:** Número de vezes que o cliente
 atrasou, entre 60 e 89 dias, o pagamento de um empréstimo.
 
-**Obs: Estes dados foram retirados de terceiros, portanto é possível que existam
+**Obs: Estes dados são fictícios, portanto é possível que existam
 incoerências, o que é perfeitamente comum em dados reais.**
 
 ## Objetivo:
