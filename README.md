@@ -46,7 +46,7 @@ incoerências, o que é perfeitamente comum em dados reais.**
 Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
 Utilize este modelo para gerar as previsões na base **teste.csv**, inserindo uma nova coluna
 na tabela de dados do arquivo **teste.csv** que contenha as previsões e nomeie esta coluna
-com o nome **inadimplente**.
+com o nome **[inadimplente]**.
 
 ### Avaliação:
 Serão avaliados o código, preferencialmente em Python, e o desempenho do modelo.
