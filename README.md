@@ -51,4 +51,4 @@ com o nome **[inadimplente]**.
 ### Avaliação:
 Serão avaliados o código, **preferencialmente em Python ou R**, e o desempenho do modelo.
 
-# **Compartilhe com o recrutador a sua solução através de um repositório(público) na sua conta do Github.**
+### **Compartilhe com o recrutador a sua solução através de um repositório(público) na sua conta do Github.**
