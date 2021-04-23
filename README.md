@@ -43,11 +43,12 @@ atrasou, entre 60 e 89 dias, o pagamento de um empréstimo.
 incoerências, o que é perfeitamente comum em dados reais.**
 
 ## Objetivo:
-Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
+Construir qualquer modelo preditivo utilizando o arquivo **treino.csv**.
 Utilize este modelo para gerar as previsões na base **teste.csv**, inserindo uma nova coluna
 na tabela de dados do arquivo **teste.csv** que contenha as previsões e nomeie esta coluna
 com o nome **[inadimplente]**.
 
 ### Avaliação:
-Serão avaliados o código, preferencialmente em Python ou R, e o desempenho do modelo.
-Compartilhe com o recrutador a sua solução através de um repositório(público) na sua conta do Github.
+Serão avaliados o código, **preferencialmente em Python ou R**, e o desempenho do modelo.
+
+# **Compartilhe com o recrutador a sua solução através de um repositório(público) na sua conta do Github.**
