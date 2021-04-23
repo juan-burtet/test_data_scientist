@@ -44,11 +44,10 @@ incoerências, o que é perfeitamente comum em dados reais.**
 
 ## Objetivo:
 Construir qualquer modelo preditivo utilizando o arquivo treino.csv.
-Utilize este modelo para gerar as previsões na base teste.csv, inserindo uma nova coluna
-na tabela de dados do arquivo teste.csv que contenha as previsões e nomeie esta coluna
-com o nome "inadimplente".Espera-se que não seja necessário mais que um dia para a resolução deste problema.
+Utilize este modelo para gerar as previsões na base **teste.csv**, inserindo uma nova coluna
+na tabela de dados do arquivo **teste.csv** que contenha as previsões e nomeie esta coluna
+com o nome **inadimplente**.
 
 ### Avaliação:
-Serão avaliados o código, preferencialmente em python ou R, e o desempenho do modelo.
-Para isto, só será necessário enviar o código com tudo o que foi feito e a base de dados de
-teste com a coluna de previsões
+Serão avaliados o código, preferencialmente em Python, e o desempenho do modelo.
+Compartilhe com o recrutador a sua solução através de um repositório(público) na sua conta do Github.
